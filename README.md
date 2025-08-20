@@ -18,7 +18,8 @@ Easily manage your daily tasks with **priorities, deadlines, progress tracking, 
 ---
 
 ## 🚀 Live Demo
-👉 [Open App Here](<img width="1863" height="860" alt="image" src="https://github.com/user-attachments/assets/7a261d55-711e-4012-86d4-c9de5612d68d" />)  
+👉 <img width="1863" height="860" alt="image" src="https://github.com/user-attachments/assets/c5d8f16c-f1a4-45f2-a803-5741504192e8" />
+
 
 ---
 
