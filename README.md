@@ -20,7 +20,8 @@ Easily manage your daily tasks with **priorities, deadlines, progress tracking, 
 ## 🚀 Live Demo
 👉 <img width="1863" height="860" alt="image" src="https://github.com/user-attachments/assets/c5d8f16c-f1a4-45f2-a803-5741504192e8" />
 
-
+## Deployed link 
+https://68a6e99c248f4c7f2d993af2--to-do-trackerapp.netlify.app/
 ---
 
 ## ⚡ Getting Started
